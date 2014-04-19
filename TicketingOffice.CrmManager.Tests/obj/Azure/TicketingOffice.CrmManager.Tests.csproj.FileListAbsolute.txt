@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\TicketingOffice.CrmManager.Tests.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\CrmContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\CrmLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\Moq.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\CustomerDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Azure\Moq.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\obj\Azure\TicketingOffice.CrmManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\obj\Azure\TicketingOffice.CrmManager.Tests.dll

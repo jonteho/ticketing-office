@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TicketingOffice.PricingService.VipPricingService" CodeBehind="VipPricingService.svc.cs" %>

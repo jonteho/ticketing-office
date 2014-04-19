@@ -1,0 +1,5 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Azure\ClientNotification.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Azure\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Azure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\obj\Azure\ClientNotification.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\obj\Azure\ClientNotification.dll

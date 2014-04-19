@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\HallState\Contracts\HallStateContract\bin\Azuuure\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\HallState\Contracts\HallStateContract\bin\Azuuure\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\HallState\Contracts\HallStateContract\bin\Azuuure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\HallState\Contracts\HallStateContract\bin\Azuuure\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\HallState\Contracts\HallStateContract\obj\Azuuure\HallStateContract.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\HallState\Contracts\HallStateContract\obj\Azuuure\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\HallState\Contracts\HallStateContract\obj\Azuuure\HallStateContract.pdb

@@ -1,0 +1,40 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\PricingService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\PricingService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\ClientNotification.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\PricingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\PricingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\ClientNotification.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\CurrencyExchangeWcfProxy.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\PricingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\PricingLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\obj\Debug\PricingService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\obj\Debug\PricingService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\obj\Debug\PricingService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingService\bin\PricingService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\PricingService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\PricingService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\PricingService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\ClientNotification.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\PricingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\PricingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\ClientNotification.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\CurrencyExchangeWcfProxy.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\PricingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\PricingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\bin\ClientNotificationContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\obj\Debug\PricingService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\obj\Debug\PricingService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingService\obj\Debug\PricingService.pdb

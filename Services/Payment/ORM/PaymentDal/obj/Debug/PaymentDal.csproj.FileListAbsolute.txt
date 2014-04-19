@@ -1,0 +1,18 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\obj\Debug\PaymentDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\obj\Debug\PaymentDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\ORM\PaymentDal\obj\Debug\PaymentDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\obj\Debug\PaymentDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\obj\Debug\PaymentDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\ORM\PaymentDal\obj\Debug\PaymentDal.pdb

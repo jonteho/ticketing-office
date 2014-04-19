@@ -1,0 +1,4 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\bin\Mattias\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\bin\Mattias\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\obj\Mattias\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\obj\Mattias\PaymentContract.pdb

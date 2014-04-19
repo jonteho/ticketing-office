@@ -1,0 +1,44 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PricingRulesService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PricingRulesService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PricingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PricingDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PricingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PricingDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\obj\Debug\PricingRulesService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\obj\Debug\PricingRulesService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\obj\Debug\PricingRulesService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingRulesService\bin\PricingRulesService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PricingRulesService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PricingRulesService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PricingRulesService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PricingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PricingDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PricingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PricingDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\obj\Debug\PricingRulesService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\obj\Debug\PricingRulesService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingRulesService\obj\Debug\PricingRulesService.pdb

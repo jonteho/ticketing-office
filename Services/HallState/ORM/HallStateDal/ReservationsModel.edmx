@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TicketingOfficeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="TicketingOfficeModelStoreContainer">
+          <EntitySet Name="Reservations" EntityType="TicketingOfficeModel.Store.Reservations" store:Type="Tables" Schema="ReservationsData" />
+          <EntitySet Name="Theaters" EntityType="TicketingOfficeModel.Store.Theaters" store:Type="Tables" Schema="TheatersData" />
+          <AssociationSet Name="FK_Reservations_Theaters" Association="TicketingOfficeModel.Store.FK_Reservations_Theaters">
+            <End Role="Theaters" EntitySet="Theaters" />
+            <End Role="Reservations" EntitySet="Reservations" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Reservations">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="HallID" Type="int" Nullable="false" />
+          <Property Name="EventID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Seats" Type="varchar(max)" />
+          <Property Name="CustomerID" Type="uniqueidentifier" />
+          <Property Name="Remark" Type="varchar(max)" />
+        </EntityType>
+        <EntityType Name="Theaters">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="City" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Country" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Capacity" Type="int" />
+          <Property Name="Map" Type="image" />
+        </EntityType>
+        <Association Name="FK_Reservations_Theaters">
+          <End Role="Theaters" Type="TicketingOfficeModel.Store.Theaters" Multiplicity="1" />
+          <End Role="Reservations" Type="TicketingOfficeModel.Store.Reservations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theaters">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Reservations">
+              <PropertyRef Name="HallID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TicketingOfficeModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="TicketingOfficeHallsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Theaters" EntityType="TicketingOfficeModel.Theater" />
+          <EntitySet Name="Reservations" EntityType="TicketingOfficeModel.Reservation" />
+          <AssociationSet Name="FK_Reservations_Theaters" Association="TicketingOfficeModel.FK_Reservations_Theaters">
+            <End Role="Theater" EntitySet="Theaters" />
+            <End Role="Reservation" EntitySet="Reservations" /></AssociationSet>
+          </EntityContainer>
+        <EntityType Name="Theater">
+          <Key>
+            <PropertyRef Name="ID" /></Key>
+          <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="City" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Country" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="Int32" Name="Capacity" />
+          <Property Type="Binary" Name="Map" MaxLength="Max" FixedLength="false" />
+          <NavigationProperty Name="Reservations" Relationship="TicketingOfficeModel.FK_Reservations_Theaters" FromRole="Theater" ToRole="Reservation" />
+          </EntityType>
+        <EntityType Name="Reservation">
+          <Key>
+            <PropertyRef Name="ID" /></Key>
+          <Property Type="Guid" Name="ID" Nullable="false" />
+          <Property Type="Guid" Name="EventID" Nullable="false" />
+          <Property Type="String" Name="Seats" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Type="Guid" Name="CustomerID" />
+          <Property Type="String" Name="Remark" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Theater" Relationship="TicketingOfficeModel.FK_Reservations_Theaters" FromRole="Reservation" ToRole="Theater" /></EntityType>
+        <Association Name="FK_Reservations_Theaters">
+          <End Type="TicketingOfficeModel.Theater" Role="Theater" Multiplicity="1" />
+          <End Type="TicketingOfficeModel.Reservation" Role="Reservation" Multiplicity="*" /></Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TicketingOfficeModelStoreContainer" CdmEntityContainer="TicketingOfficeHallsEntities">
+          <EntitySetMapping Name="Theaters">
+            <EntityTypeMapping TypeName="TicketingOfficeModel.Theater">
+              <MappingFragment StoreEntitySet="Theaters">
+                <ScalarProperty Name="Map" ColumnName="Map" />
+                <ScalarProperty Name="Capacity" ColumnName="Capacity" />
+                <ScalarProperty Name="Country" ColumnName="Country" />
+                <ScalarProperty Name="City" ColumnName="City" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ID" ColumnName="ID" /></MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="Reservations">
+            <EntityTypeMapping TypeName="TicketingOfficeModel.Reservation">
+              <MappingFragment StoreEntitySet="Reservations">
+                <ScalarProperty Name="Remark" ColumnName="Remark" />
+                <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+                <ScalarProperty Name="Seats" ColumnName="Seats" />
+                <ScalarProperty Name="EventID" ColumnName="EventID" />
+                <ScalarProperty Name="ID" ColumnName="ID" /></MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <AssociationSetMapping Name="FK_Reservations_Theaters" TypeName="TicketingOfficeModel.FK_Reservations_Theaters" StoreEntitySet="Reservations">
+            <EndProperty Name="Reservation">
+              <ScalarProperty Name="ID" ColumnName="ID" /></EndProperty>
+            <EndProperty Name="Theater">
+              <ScalarProperty Name="ID" ColumnName="HallID" /></EndProperty></AssociationSetMapping>
+          </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="False" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="ReservationsModel">
+        <EntityTypeShape EntityType="TicketingOfficeModel.Theater" Width="1.5" PointX="0.75" PointY="1" Height="2.3648893229166665" />
+        <EntityTypeShape EntityType="TicketingOfficeModel.Reservation" Width="1.5" PointX="3" PointY="1.125" Height="2.1725878906249996" />
+        <AssociationConnector Association="TicketingOfficeModel.FK_Reservations_Theaters" >
+          <ConnectorPoint PointX="2.25" PointY="2.2112939453125" />
+          <ConnectorPoint PointX="3" PointY="2.2112939453125" /></AssociationConnector>
+        </Diagram></Diagrams>
+  </Designer>
+</edmx:Edmx>

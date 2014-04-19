@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TicketingOffice.CrmService.CustomerRelationsService" CodeBehind="CrmService.svc.cs" Factory="TicketingOffice.Host.Factories.CrmServiceHostFactory" %>

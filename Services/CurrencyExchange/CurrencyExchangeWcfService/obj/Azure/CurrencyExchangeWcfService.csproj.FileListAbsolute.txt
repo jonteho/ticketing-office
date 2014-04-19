@@ -1,0 +1,8 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\bin\CurrencyExchangeWcfService.dll.config
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\bin\CurrencyExchangeWcfService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\bin\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\bin\ExchangeDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\obj\Azure\CurrencyExchangeWcfService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\CurrencyExchangeWcfService\obj\Azure\CurrencyExchangeWcfService.dll

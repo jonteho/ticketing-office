@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicketingOfficeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TicketingOfficeModelStoreContainer">
+    <EntitySet Name="Reservations" EntityType="TicketingOfficeModel.Store.Reservations" store:Type="Tables" Schema="ReservationsData" />
+    <EntitySet Name="Theaters" EntityType="TicketingOfficeModel.Store.Theaters" store:Type="Tables" Schema="TheatersData" />
+    <AssociationSet Name="FK_Reservations_Theaters" Association="TicketingOfficeModel.Store.FK_Reservations_Theaters">
+      <End Role="Theaters" EntitySet="Theaters" />
+      <End Role="Reservations" EntitySet="Reservations" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Reservations">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="HallID" Type="int" Nullable="false" />
+    <Property Name="EventID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Seats" Type="varchar(max)" />
+    <Property Name="CustomerID" Type="uniqueidentifier" />
+    <Property Name="Remark" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="Theaters">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="City" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Country" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Capacity" Type="int" />
+    <Property Name="Map" Type="image" />
+  </EntityType>
+  <Association Name="FK_Reservations_Theaters">
+    <End Role="Theaters" Type="TicketingOfficeModel.Store.Theaters" Multiplicity="1" />
+    <End Role="Reservations" Type="TicketingOfficeModel.Store.Reservations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Theaters">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Reservations">
+        <PropertyRef Name="HallID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,6 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\x86\Azure\PaymentLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\x86\Azure\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\x86\Azure\PaymentDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\x86\Azure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\obj\x86\Azure\PaymentLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\obj\x86\Azure\PaymentLogic.dll

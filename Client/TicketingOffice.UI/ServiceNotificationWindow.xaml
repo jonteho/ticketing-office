@@ -1,0 +1,15 @@
+﻿<Window x:Class="TicketingOffice.UI.ServiceNotificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:properties="clr-namespace:TicketingOffice.UI.Properties"
+        Title="ServiceNotificationWindow" Height="300" Width="300" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" Content="{x:Static properties:Resources.ServiceNotificationWindow_btnListen}" Name="btnListen" Click="btnListen_Click"/>
+        <ListBox Grid.Row="2" Name="lstNotifications" ItemsSource="{Binding Notifications}"/>
+    </Grid>
+</Window>

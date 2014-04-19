@@ -1,0 +1,56 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\ClientNotification.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\CrmContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\ClientNotification.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\CrmContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\obj\Debug\PaymentService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\obj\Debug\PaymentService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\obj\Debug\PaymentService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\PaymentService\bin\PaymentService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\ClientNotification.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\CrmContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\ClientNotificationContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\ClientNotification.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\CrmContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\bin\PaymentDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\obj\Debug\PaymentService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\obj\Debug\PaymentService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\PaymentService\obj\Debug\PaymentService.pdb

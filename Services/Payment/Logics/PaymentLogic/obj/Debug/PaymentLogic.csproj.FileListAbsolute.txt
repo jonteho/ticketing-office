@@ -1,0 +1,22 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\obj\Debug\PaymentLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\obj\Debug\PaymentLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Logics\PaymentLogic\obj\Debug\PaymentLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\PaymentDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\obj\Debug\PaymentLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\obj\Debug\PaymentLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Payment\Logics\PaymentLogic\obj\Debug\PaymentLogic.pdb

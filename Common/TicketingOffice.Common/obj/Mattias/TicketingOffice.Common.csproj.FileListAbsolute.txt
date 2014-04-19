@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\Mattias\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\Mattias\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Mattias\TicketingOffice.Common.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Mattias\TicketingOffice.Common.Properties.StringsResource.resources
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Mattias\TicketingOffice.Common.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Mattias\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Mattias\TicketingOffice.Common.pdb

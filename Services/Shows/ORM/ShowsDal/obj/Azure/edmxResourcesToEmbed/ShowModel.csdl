@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicketingOffice.ShowsService.DataAccess" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="TicketingOfficeShowEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Events" EntityType="TicketingOffice.ShowsService.DataAccess.Event" />
+    <EntitySet Name="Shows" EntityType="TicketingOffice.ShowsService.DataAccess.Show" />
+    <AssociationSet Name="FK_Events_Shows" Association="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows">
+      <End Role="Show" EntitySet="Shows" />
+      <End Role="Event" EntitySet="Events" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Event">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Guid" Name="ID" Nullable="false" />
+    <Property Type="Int32" Name="TheaterID" Nullable="false" />
+    <Property Type="DateTime" Name="StartTime" Nullable="false" />
+    <Property Type="DateTime" Name="Date" Nullable="false" />
+    <Property Type="Int32" Name="ListPrice" Nullable="false" />
+    <Property Type="String" Name="State" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Type="String" Name="PricingPolicy" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Show" Relationship="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows" FromRole="Event" ToRole="Show" />
+  </EntityType>
+  <EntityType Name="Show">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Title" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Description" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Url" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Preview" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Cast" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Duration" />
+    <Property Type="Binary" Name="Logo" MaxLength="Max" FixedLength="false" />
+    <Property Type="String" Name="Category" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Events" Relationship="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows" FromRole="Show" ToRole="Event" />
+  </EntityType>
+  <Association Name="FK_Events_Shows">
+    <End Type="TicketingOffice.ShowsService.DataAccess.Show" Role="Show" Multiplicity="1" />
+    <End Type="TicketingOffice.ShowsService.DataAccess.Event" Role="Event" Multiplicity="*" />
+  </Association>
+</Schema>

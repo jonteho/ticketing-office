@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://www.fabrikam.com" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.fabrikam.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://www.fabrikam.com/Imports">
+      <xsd:import schemaLocation="http://localhost:5004/?xsd=xsd0" namespace="http://www.fabrikam.com" />
+      <xsd:import schemaLocation="http://localhost:5004/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPaymentService_PayForOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:PayForOrder" />
+  </wsdl:message>
+  <wsdl:message name="IPaymentService_PayForOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PayForOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPaymentService_Refund_InputMessage">
+    <wsdl:part name="parameters" element="tns:Refund" />
+  </wsdl:message>
+  <wsdl:message name="IPaymentService_Refund_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RefundResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPaymentService_FindPayments_InputMessage">
+    <wsdl:part name="parameters" element="tns:FindPayments" />
+  </wsdl:message>
+  <wsdl:message name="IPaymentService_FindPayments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FindPaymentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPaymentService_FindPayment_InputMessage">
+    <wsdl:part name="parameters" element="tns:FindPayment" />
+  </wsdl:message>
+  <wsdl:message name="IPaymentService_FindPayment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FindPaymentResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPaymentService">
+    <wsdl:operation name="PayForOrder">
+      <wsdl:input wsaw:Action="http://www.fabrikam.com/IPaymentService/PayForOrder" message="tns:IPaymentService_PayForOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://www.fabrikam.com/IPaymentService/PayForOrderResponse" message="tns:IPaymentService_PayForOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Refund">
+      <wsdl:input wsaw:Action="http://www.fabrikam.com/IPaymentService/Refund" message="tns:IPaymentService_Refund_InputMessage" />
+      <wsdl:output wsaw:Action="http://www.fabrikam.com/IPaymentService/RefundResponse" message="tns:IPaymentService_Refund_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPayments">
+      <wsdl:input wsaw:Action="http://www.fabrikam.com/IPaymentService/FindPayments" message="tns:IPaymentService_FindPayments_InputMessage" />
+      <wsdl:output wsaw:Action="http://www.fabrikam.com/IPaymentService/FindPaymentsResponse" message="tns:IPaymentService_FindPayments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindPayment">
+      <wsdl:input wsaw:Action="http://www.fabrikam.com/IPaymentService/FindPayment" message="tns:IPaymentService_FindPayment_InputMessage" />
+      <wsdl:output wsaw:Action="http://www.fabrikam.com/IPaymentService/FindPaymentResponse" message="tns:IPaymentService_FindPayment_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

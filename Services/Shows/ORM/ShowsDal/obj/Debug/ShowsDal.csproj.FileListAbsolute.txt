@@ -1,0 +1,22 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\obj\Debug\ShowsDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\obj\Debug\ShowsDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ORM\ShowsDal\obj\Debug\ShowsDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\obj\Debug\ShowsDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\obj\Debug\ShowsDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ORM\ShowsDal\obj\Debug\ShowsDal.pdb

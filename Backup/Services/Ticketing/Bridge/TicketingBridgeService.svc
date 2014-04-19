@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TicketingOffice.Bridge.TicketingBridge" CodeBehind="TicketingBridgeService.svc.cs" Factory="TicketingOffice.Host.Factories.TicketingBridgeHostFactory" %>

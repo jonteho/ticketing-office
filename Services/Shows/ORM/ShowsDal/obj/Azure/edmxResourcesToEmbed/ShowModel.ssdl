@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicketingOffice.ShowsService.DataAccess.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TicketingOfficeShowsServiceORMStoreContainer">
+    <EntitySet Name="Events" EntityType="TicketingOffice.ShowsService.DataAccess.Store.Events" store:Type="Tables" Schema="EventsData" />
+    <EntitySet Name="Shows" EntityType="TicketingOffice.ShowsService.DataAccess.Store.Shows" store:Type="Tables" Schema="ShowsData" />
+    <AssociationSet Name="FK_Events_Shows" Association="TicketingOffice.ShowsService.DataAccess.Store.FK_Events_Shows">
+      <End Role="Shows" EntitySet="Shows" />
+      <End Role="Events" EntitySet="Events" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Events">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ShowID" Type="int" Nullable="false" />
+    <Property Name="TheaterID" Type="int" Nullable="false" />
+    <Property Name="StartTime" Type="datetime" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="ListPrice" Type="int" Nullable="false" />
+    <Property Name="State" Type="nchar" MaxLength="10" />
+    <Property Name="PricingPolicy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Shows">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Url" Type="nvarchar(max)" />
+    <Property Name="Preview" Type="varchar(max)" />
+    <Property Name="Cast" Type="varchar(max)" />
+    <Property Name="Duration" Type="int" />
+    <Property Name="Logo" Type="image" />
+    <Property Name="Category" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Events_Shows">
+    <End Role="Shows" Type="TicketingOffice.ShowsService.DataAccess.Store.Shows" Multiplicity="1" />
+    <End Role="Events" Type="TicketingOffice.ShowsService.DataAccess.Store.Events" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shows">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Events">
+        <PropertyRef Name="ShowID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,8 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\bin\Debug\TicketingOffice.Database.dacpac
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\bin\Debug\TicketingOffice.Database.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\bin\Debug\TicketingOffice.Database.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\obj\Debug\TicketingOffice.Database.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\obj\Debug\TicketingOffice.Database.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\bin\Output\TicketingOffice.Database.dacpac
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\bin\Output\TicketingOffice.Database.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.Database\bin\Output\TicketingOffice.Database.pdb

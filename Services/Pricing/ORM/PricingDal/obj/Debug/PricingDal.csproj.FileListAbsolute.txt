@@ -1,0 +1,22 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\PricingDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\PricingDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\PricingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\PricingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\obj\Debug\PricingDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\obj\Debug\PricingDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\ORM\PricingDal\obj\Debug\PricingDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\PricingDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\PricingDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\PricingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\PricingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\obj\Debug\PricingDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\obj\Debug\PricingDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\ORM\PricingDal\obj\Debug\PricingDal.pdb

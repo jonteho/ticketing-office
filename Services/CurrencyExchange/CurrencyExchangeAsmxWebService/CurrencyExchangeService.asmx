@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="CurrencyExchangeService.asmx.cs" Class=" TicketingOffice.CurrencyExchange.AsmxWebService.CurrencyExchangeService" %>

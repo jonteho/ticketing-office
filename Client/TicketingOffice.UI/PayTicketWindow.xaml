@@ -1,0 +1,69 @@
+﻿<Window x:Class="TicketingOffice.UI.PayTicketWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:properties="clr-namespace:TicketingOffice.UI.Properties"
+        xmlns:local="clr-namespace:TicketingOffice.UI"
+        Title="PayTicketWindow" Height="441" Width="353" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:EnabledConverter x:Key="enabledConverter"/>
+        <local:EnabledMultiConverter x:Key="enabledMultiConverter"/>
+    </Window.Resources>
+    <Grid>
+        <ComboBox Height="27" HorizontalAlignment="Left" Margin="12,38,0,0" Name="cmbCustomers"
+                  VerticalAlignment="Top" Width="169" SelectionChanged="cmbCustomers_SelectionChanged" />
+        <Label Content="{x:Static properties:Resources.PayTicketWindow_SelectCustomerLabel}"
+               Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" VerticalAlignment="Top" Width="169" />
+        <ListBox Height="79" Margin="12,104,12,0"  Name="lstOrders" VerticalAlignment="Top" SelectionChanged="lstOrders_SelectionChanged" />
+        <Label Content="{x:Static properties:Resources.PayTicketWindow_SelectOrderLabel}" Height="28" HorizontalAlignment="Left" Margin="12,81,0,0" VerticalAlignment="Top" Width="305" />
+        <Label Content="{x:Static properties:Resources.PayTicketWindow_SelectPaymentLabel}" Height="28" HorizontalAlignment="Left" Margin="12,201,0,0" VerticalAlignment="Top" Width="305" />
+        <Grid HorizontalAlignment="Left" Margin="0,235,0,0" Name="grid1" VerticalAlignment="Top" Width="331" Height="167">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <ListBox Grid.Column="0" Grid.Row="0" Height="79" Name="lstPayments" VerticalAlignment="Top" Margin="0,0,0,10"/>
+
+            <Button  VerticalAlignment="Top" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Content="{x:Static properties:Resources.PayTicketWindow_RefundButton}" Height="37" IsEnabled="{Binding Path=SelectedItem, ElementName=lstPayments, Converter={StaticResource enabledConverter}}" Name="btnRefund"  Width="108" Click="btnRefund_Click" />
+            <Grid Grid.Column="1" Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="27*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Content="{x:Static properties:Resources.PayTicketWindow_txtPaymentAmount}" Grid.Column="0" Grid.Row="0" Margin="5,5,3,0"/>
+                <TextBox Grid.Column="1" Grid.Row="0" Name="txtPaymentAmount" Margin="0,5,0,0" />
+                <Label Content="{x:Static properties:Resources.PayTicketWindow_cmbPaymentType}" Grid.Column="0" Grid.Row="1" Margin="5,5,3,0"/>
+                <ComboBox Grid.Column="1" Grid.Row="1" Name="cmbPaymentType"  Margin="0,5,0,0">
+                    <ComboBoxItem Tag="CreditCard" Content="{x:Static properties:Resources.PayTicketWindow_PaymentType_Credit}"/>
+                    <ComboBoxItem Tag="Cash" Content="{x:Static properties:Resources.PayTicketWindow_PaymentType_Cash}"/>
+                    <ComboBoxItem Tag="Cheque" Content="{x:Static properties:Resources.PayTicketWindow_PaymentType_Cheque}"/>
+                    <ComboBoxItem Tag="Voucher" Content="{x:Static properties:Resources.PayTicketWindow_PaymentType_Voucher}"/>
+                </ComboBox>
+                <Label Content="{x:Static properties:Resources.PayTicketWindow_cmbCreditNumber}" Grid.Column="0" Grid.Row="2"  Margin="5,5,3,0"/>
+                <TextBox Grid.Column="1" Grid.Row="2" Name="txtCreditCardNo" />
+            </Grid>
+            <Button VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center"
+                    Content="{x:Static properties:Resources.PayTicketWindow_PaymentButton}" 
+                    Height="37" Name="btnPayment" Width="108" Click="btnPayment_Click" 
+                    >
+                <Button.IsEnabled>
+                    <MultiBinding Converter="{StaticResource enabledMultiConverter}">
+                        <Binding Path="Text" ElementName="txtPaymentAmount"/>
+                        <Binding Path="SelectedValue" ElementName="cmbPaymentType"/>
+                        <Binding Path="SelectedValue" ElementName="lstOrders"/>
+                    </MultiBinding> 
+                </Button.IsEnabled>                
+            </Button>
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\x86\Azure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\x86\Azure\TicketingOffice.Common.Properties.StringsResource.resources
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\x86\Azure\TicketingOffice.Common.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\x86\Azure\TicketingOffice.Common.dll

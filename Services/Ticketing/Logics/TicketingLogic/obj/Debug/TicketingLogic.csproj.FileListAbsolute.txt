@@ -1,0 +1,38 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\obj\Debug\TicketingLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\obj\Debug\TicketingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Ticketing\Logics\TicketingLogic\obj\Debug\TicketingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\obj\Debug\TicketingLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\obj\Debug\TicketingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Ticketing\Logics\TicketingLogic\obj\Debug\TicketingLogic.pdb

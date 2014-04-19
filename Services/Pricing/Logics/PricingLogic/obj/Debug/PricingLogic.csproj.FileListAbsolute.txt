@@ -1,0 +1,22 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\obj\Debug\PricingLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\obj\Debug\PricingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\Logics\PricingLogic\obj\Debug\PricingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\PricingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\obj\Debug\PricingLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\obj\Debug\PricingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\Logics\PricingLogic\obj\Debug\PricingLogic.pdb

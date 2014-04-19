@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicketingOfficeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TicketingOfficeModelStoreContainer">
+    <EntitySet Name="PricingRules" EntityType="TicketingOfficeModel.Store.PricingRules" store:Type="Tables" Schema="PricingData" />
+  </EntityContainer>
+  <EntityType Name="PricingRules">
+    <Key>
+      <PropertyRef Name="RuleID" />
+    </Key>
+    <Property Name="RuleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PolicyName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ReductionCode" Type="int" />
+    <Property Name="Reduction" Type="tinyint" Nullable="false" />
+    <Property Name="FromDate" Type="datetime" />
+    <Property Name="ToDate" Type="datetime" />
+    <Property Name="MinNumOfOrders" Type="int" />
+  </EntityType>
+</Schema>

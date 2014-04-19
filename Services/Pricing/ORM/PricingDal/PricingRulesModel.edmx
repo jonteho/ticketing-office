@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TicketingOfficeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="TicketingOfficeModelStoreContainer">
+          <EntitySet Name="PricingRules" EntityType="TicketingOfficeModel.Store.PricingRules" store:Type="Tables" Schema="PricingData" />
+        </EntityContainer>
+        <EntityType Name="PricingRules">
+          <Key>
+            <PropertyRef Name="RuleID" />
+          </Key>
+          <Property Name="RuleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="PolicyName" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="ReductionCode" Type="int" />
+          <Property Name="Reduction" Type="tinyint" Nullable="false" />
+          <Property Name="FromDate" Type="datetime" />
+          <Property Name="ToDate" Type="datetime" />
+          <Property Name="MinNumOfOrders" Type="int" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TicketingOfficeModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="TicketingOfficePricingEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="PricingRules" EntityType="TicketingOfficeModel.PricingRule" /></EntityContainer>
+        <EntityType Name="PricingRule">
+          <Key>
+            <PropertyRef Name="RuleID" /></Key>
+          <Property Type="Int32" Name="RuleID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="PolicyName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="Int32" Name="ReductionCode" />
+          <Property Type="Byte" Name="Reduction" Nullable="false" />
+          <Property Type="DateTime" Name="FromDate" />
+          <Property Type="DateTime" Name="ToDate" />
+          <Property Type="Int32" Name="MinNumOfOrders" /></EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TicketingOfficeModelStoreContainer" CdmEntityContainer="TicketingOfficePricingEntities">
+          <EntitySetMapping Name="PricingRules">
+            <EntityTypeMapping TypeName="TicketingOfficeModel.PricingRule">
+              <MappingFragment StoreEntitySet="PricingRules">
+                <ScalarProperty Name="MinNumOfOrders" ColumnName="MinNumOfOrders" />
+                <ScalarProperty Name="ToDate" ColumnName="ToDate" />
+                <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+                <ScalarProperty Name="Reduction" ColumnName="Reduction" />
+                <ScalarProperty Name="ReductionCode" ColumnName="ReductionCode" />
+                <ScalarProperty Name="PolicyName" ColumnName="PolicyName" />
+                <ScalarProperty Name="RuleID" ColumnName="RuleID" /></MappingFragment></EntityTypeMapping></EntitySetMapping></EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="PricingRulesModel">
+        <EntityTypeShape EntityType="TicketingOfficeModel.PricingRule" Width="1.5" PointX="0.75" PointY="0.75" Height="2.3648893229166665" /></Diagram></Diagrams>
+  </Designer>
+</edmx:Edmx>

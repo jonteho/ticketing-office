@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TicketingOfficeModelStoreContainer" CdmEntityContainer="TicketingOfficePricingEntities">
+    <EntitySetMapping Name="PricingRules">
+      <EntityTypeMapping TypeName="TicketingOfficeModel.PricingRule">
+        <MappingFragment StoreEntitySet="PricingRules">
+          <ScalarProperty Name="MinNumOfOrders" ColumnName="MinNumOfOrders" />
+          <ScalarProperty Name="ToDate" ColumnName="ToDate" />
+          <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+          <ScalarProperty Name="Reduction" ColumnName="Reduction" />
+          <ScalarProperty Name="ReductionCode" ColumnName="ReductionCode" />
+          <ScalarProperty Name="PolicyName" ColumnName="PolicyName" />
+          <ScalarProperty Name="RuleID" ColumnName="RuleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

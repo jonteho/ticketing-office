@@ -1,0 +1,6 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\x86\Azure\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\x86\Azure\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\x86\Azure\ExchangeDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\x86\Azure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\x86\Azure\CurrencyExchangeLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\x86\Azure\CurrencyExchangeLogic.dll

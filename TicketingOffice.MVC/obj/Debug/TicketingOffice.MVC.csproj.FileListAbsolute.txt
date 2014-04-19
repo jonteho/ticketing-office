@@ -1,0 +1,106 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingOffice.MVC.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingOffice.MVC.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Helpers.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Razor.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Webpages.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingOffice.WebAPI.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Http.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingOffice.WebAPI.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Razor.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Webpages.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Helpers.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Http.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\obj\Debug\TicketingOffice.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\obj\Debug\TicketingOffice.MVC.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\obj\Debug\TicketingOffice.MVC.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CustomerDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CrmContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CustomerDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CrmContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CrmLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\CrmLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Optimization.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\WebActivatorEx.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\WebGrease.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Optimization.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Mvc.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.Mvc.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.MVC\bin\TicketingOffice.MVC.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingOffice.MVC.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingOffice.MVC.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingOffice.MVC.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CrmContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Helpers.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Http.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Mvc.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Optimization.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Razor.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Webpages.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingOffice.WebAPI.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\WebActivatorEx.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\WebGrease.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CrmLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CustomerDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CrmContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingOffice.WebAPI.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Http.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Mvc.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Optimization.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Razor.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Webpages.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Helpers.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CrmLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\CustomerDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\obj\Debug\TicketingOffice.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\obj\Debug\TicketingOffice.MVC.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.MVC\obj\Debug\TicketingOffice.MVC.pdb

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TicketingOffice.ShowsService.DataAccess.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="TicketingOfficeShowsServiceORMStoreContainer">
+          <EntitySet Name="Events" EntityType="TicketingOffice.ShowsService.DataAccess.Store.Events" store:Type="Tables" Schema="EventsData" />
+          <EntitySet Name="Shows" EntityType="TicketingOffice.ShowsService.DataAccess.Store.Shows" store:Type="Tables" Schema="ShowsData" />
+          <AssociationSet Name="FK_Events_Shows" Association="TicketingOffice.ShowsService.DataAccess.Store.FK_Events_Shows">
+            <End Role="Shows" EntitySet="Shows" />
+            <End Role="Events" EntitySet="Events" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Events">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ShowID" Type="int" Nullable="false" />
+          <Property Name="TheaterID" Type="int" Nullable="false" />
+          <Property Name="StartTime" Type="datetime" Nullable="false" />
+          <Property Name="Date" Type="datetime" Nullable="false" />
+          <Property Name="ListPrice" Type="int" Nullable="false" />
+          <Property Name="State" Type="nchar" MaxLength="10" />
+          <Property Name="PricingPolicy" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Shows">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Url" Type="nvarchar(max)" />
+          <Property Name="Preview" Type="varchar(max)" />
+          <Property Name="Cast" Type="varchar(max)" />
+          <Property Name="Duration" Type="int" />
+          <Property Name="Logo" Type="image" />
+          <Property Name="Category" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_Events_Shows">
+          <End Role="Shows" Type="TicketingOffice.ShowsService.DataAccess.Store.Shows" Multiplicity="1" />
+          <End Role="Events" Type="TicketingOffice.ShowsService.DataAccess.Store.Events" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Shows">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Events">
+              <PropertyRef Name="ShowID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TicketingOffice.ShowsService.DataAccess" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="TicketingOfficeShowEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Events" EntityType="TicketingOffice.ShowsService.DataAccess.Event" />
+          <EntitySet Name="Shows" EntityType="TicketingOffice.ShowsService.DataAccess.Show" />
+          <AssociationSet Name="FK_Events_Shows" Association="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows">
+            <End Role="Show" EntitySet="Shows" />
+            <End Role="Event" EntitySet="Events" /></AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Event">
+          <Key>
+            <PropertyRef Name="ID" /></Key>
+          <Property Type="Guid" Name="ID" Nullable="false" />
+          <Property Type="Int32" Name="TheaterID" Nullable="false" />
+          <Property Type="DateTime" Name="StartTime" Nullable="false" />
+          <Property Type="DateTime" Name="Date" Nullable="false" />
+          <Property Type="Int32" Name="ListPrice" Nullable="false" />
+          <Property Type="String" Name="State" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Type="String" Name="PricingPolicy" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Show" Relationship="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows" FromRole="Event" ToRole="Show" />
+          </EntityType>
+        <EntityType Name="Show">
+          <Key>
+            <PropertyRef Name="ID" /></Key>
+          <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="Title" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Description" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="Url" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="Preview" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Cast" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Type="Int32" Name="Duration" />
+          <Property Type="Binary" Name="Logo" MaxLength="Max" FixedLength="false" />
+          <Property Type="String" Name="Category" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Events" Relationship="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows" FromRole="Show" ToRole="Event" /></EntityType>
+        <Association Name="FK_Events_Shows">
+          <End Type="TicketingOffice.ShowsService.DataAccess.Show" Role="Show" Multiplicity="1" />
+          <End Type="TicketingOffice.ShowsService.DataAccess.Event" Role="Event" Multiplicity="*" /></Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TicketingOfficeShowsServiceORMStoreContainer" CdmEntityContainer="TicketingOfficeShowEntities">
+          <EntitySetMapping Name="Events">
+            <EntityTypeMapping TypeName="TicketingOffice.ShowsService.DataAccess.Event">
+              <MappingFragment StoreEntitySet="Events">
+                <ScalarProperty Name="PricingPolicy" ColumnName="PricingPolicy" />
+                <ScalarProperty Name="State" ColumnName="State" />
+                <ScalarProperty Name="ListPrice" ColumnName="ListPrice" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+                <ScalarProperty Name="TheaterID" ColumnName="TheaterID" />
+                <ScalarProperty Name="ID" ColumnName="ID" /></MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="Shows">
+            <EntityTypeMapping TypeName="TicketingOffice.ShowsService.DataAccess.Show">
+              <MappingFragment StoreEntitySet="Shows">
+                <ScalarProperty Name="Category" ColumnName="Category" />
+                <ScalarProperty Name="Logo" ColumnName="Logo" />
+                <ScalarProperty Name="Duration" ColumnName="Duration" />
+                <ScalarProperty Name="Cast" ColumnName="Cast" />
+                <ScalarProperty Name="Preview" ColumnName="Preview" />
+                <ScalarProperty Name="Url" ColumnName="Url" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="ID" ColumnName="ID" /></MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <AssociationSetMapping Name="FK_Events_Shows" TypeName="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows" StoreEntitySet="Events">
+            <EndProperty Name="Event">
+              <ScalarProperty Name="ID" ColumnName="ID" /></EndProperty>
+            <EndProperty Name="Show">
+              <ScalarProperty Name="ID" ColumnName="ShowID" /></EndProperty></AssociationSetMapping>
+          </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT tmpALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="False" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="ShowModel">
+        <EntityTypeShape EntityType="TicketingOffice.ShowsService.DataAccess.Event" Width="1.5" PointX="3" PointY="1.125" Height="2.5571907552083335" />
+        <EntityTypeShape EntityType="TicketingOffice.ShowsService.DataAccess.Show" Width="1.5" PointX="0.75" PointY="0.875" Height="2.9417936197916665" />
+        <AssociationConnector Association="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows" >
+          <ConnectorPoint PointX="2.25" PointY="2.4035953776041667" />
+          <ConnectorPoint PointX="3" PointY="2.4035953776041667" /></AssociationConnector>
+        </Diagram></Diagrams>
+  </Designer>
+</edmx:Edmx>

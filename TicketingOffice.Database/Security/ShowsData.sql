@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [ShowsData]
+    AUTHORIZATION [dbo];
+

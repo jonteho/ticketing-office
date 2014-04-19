@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\bin\PricingBrokerService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\bin\PricingBrokerService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\obj\Debug\PricingBrokerService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\obj\Debug\PricingBrokerService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\obj\Debug\PricingBrokerService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Pricing\PricingBrokerService\bin\PricingBrokerService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\bin\PricingBrokerService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\bin\PricingBrokerService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\bin\PricingBrokerService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\obj\Debug\PricingBrokerService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\obj\Debug\PricingBrokerService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Pricing\PricingBrokerService\obj\Debug\PricingBrokerService.pdb

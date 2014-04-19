@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/bootstrap.css")" rel="stylesheet" type="text/css" />
+
+    <script src="@Url.Content("~/Scripts/jquery-1.9.1.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery-1.9.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/customer.js")"></script>
+    <script src="@Url.Content("~/Scripts/bootstrap.js")"></script>
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+</head>
+<body>
+            <div class="navbar-form navbar-left" role="search">
+                <div class="form-group">
+                    <form action="@Url.Action("GetCustomers","Home")" method="post">
+                        <button id="getCustomers" type="submit" class="btn btn-info navbar-btn">Get customers</button>
+                        <button id="addCustomer" type="button" class="btn btn-info navbar-btn">Add customer</button>
+                    </form>
+                    
+                </div>
+            </div>
+        <br/>
+        <br />
+        @RenderBody()
+</body>
+</html>

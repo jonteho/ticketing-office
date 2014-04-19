@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Contracts\CurrencyExchangeContract\bin\Mattias\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Contracts\CurrencyExchangeContract\bin\Mattias\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Contracts\CurrencyExchangeContract\bin\Mattias\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Contracts\CurrencyExchangeContract\bin\Mattias\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Contracts\CurrencyExchangeContract\obj\Mattias\CurrencyExchangeContract.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Contracts\CurrencyExchangeContract\obj\Mattias\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Contracts\CurrencyExchangeContract\obj\Mattias\CurrencyExchangeContract.pdb

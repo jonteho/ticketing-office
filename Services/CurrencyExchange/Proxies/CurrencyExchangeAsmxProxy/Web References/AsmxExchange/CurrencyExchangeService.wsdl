@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://Fabrikam.com" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://Fabrikam.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://Fabrikam.com">
+      <s:element name="Buy">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="currency" type="tns:Currencies" />
+            <s:element minOccurs="1" maxOccurs="1" name="amount" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:simpleType name="Currencies">
+        <s:restriction base="s:string">
+          <s:enumeration value="Dollar" />
+          <s:enumeration value="Euro" />
+          <s:enumeration value="Yen" />
+          <s:enumeration value="Pound" />
+          <s:enumeration value="Dinar" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="BuyResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="BuyResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Sell">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="currency" type="tns:Currencies" />
+            <s:element minOccurs="1" maxOccurs="1" name="amount" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SellResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SellResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="BuySoapIn">
+    <wsdl:part name="parameters" element="tns:Buy" />
+  </wsdl:message>
+  <wsdl:message name="BuySoapOut">
+    <wsdl:part name="parameters" element="tns:BuyResponse" />
+  </wsdl:message>
+  <wsdl:message name="SellSoapIn">
+    <wsdl:part name="parameters" element="tns:Sell" />
+  </wsdl:message>
+  <wsdl:message name="SellSoapOut">
+    <wsdl:part name="parameters" element="tns:SellResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CurrencyExchangeServiceSoap">
+    <wsdl:operation name="Buy">
+      <wsdl:input message="tns:BuySoapIn" />
+      <wsdl:output message="tns:BuySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Sell">
+      <wsdl:input message="tns:SellSoapIn" />
+      <wsdl:output message="tns:SellSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CurrencyExchangeServiceSoap" type="tns:CurrencyExchangeServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Buy">
+      <soap:operation soapAction="http://Fabrikam.com/Buy" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Sell">
+      <soap:operation soapAction="http://Fabrikam.com/Sell" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CurrencyExchangeServiceSoap12" type="tns:CurrencyExchangeServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Buy">
+      <soap12:operation soapAction="http://Fabrikam.com/Buy" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Sell">
+      <soap12:operation soapAction="http://Fabrikam.com/Sell" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CurrencyExchangeService">
+    <wsdl:port name="CurrencyExchangeServiceSoap" binding="tns:CurrencyExchangeServiceSoap">
+      <soap:address location="http://localhost:3790/CurrencyExchangeService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="CurrencyExchangeServiceSoap12" binding="tns:CurrencyExchangeServiceSoap12">
+      <soap12:address location="http://localhost:3790/CurrencyExchangeService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

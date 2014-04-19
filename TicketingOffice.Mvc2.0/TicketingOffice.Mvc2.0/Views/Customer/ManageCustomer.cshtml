@@ -1,0 +1,38 @@
+﻿@model TicketingOffice.CrmService.Contracts.Customer
+
+@{
+    ViewBag.Title = "Ticketing Office";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="well-lg text-center" style="background: black; height: 210px; border-radius: 0; opacity: 0.7;">
+    <p style="color: white; font-family: 'Days One', sans-serif; font-size: 48px;">
+        Manage customer
+    </p>
+</div>
+
+<div class="well-lg text-center" style="background: #3276B1; height: 500px; border-radius: 0; opacity: 0.7;">
+    <form action="@Url.Action("UpdateCustomer","Customer")" method="POST">
+        <div class="form-group">
+            <input class="form-control" value="@Model.ID" type="hidden" name="Id" />
+            <input class="form-control" value="@Model.FirstName" type="text" name="FirstName" />
+            <input class="form-control" value="@Model.LastName" type="text" name="LastName" />
+            <input class="form-control" value="@Model.Address" type="text" name="Address" />
+            <input class="form-control" value="@Model.BirthDate" type="text" name="BirthDate" />
+            <input class="form-control" value="@Model.CellNumber" type="text" name="CellNumber" />
+            <input class="form-control" value="@Model.Country" type="text" name="Country" />
+            <input class="form-control" value="@Model.City" type="text" name="City" />
+            <input class="form-control" value="@Model.Email" type="email" name="Email" />
+            <input class="form-control" value="@Model.PhoneNumber" type="tel" name="PhoneNumber" />
+            <input class="form-control" value="@Model.ReductionCode" type="text" name="ReductionCode" />
+        </div>
+        <button type="submit" class="btn btn-default">Update</button>
+
+    </form>
+    <br />
+    <form action="@Url.Action("DeleteCustomer","Customer")" method="POST">
+        <input type="hidden" name="email" value="@(Model.Email)" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+    </form>
+    
+    </div>

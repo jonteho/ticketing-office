@@ -1,0 +1,40 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ClientNotification.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ClientNotification.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\obj\Debug\ShowsService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\obj\Debug\ShowsService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\obj\Debug\ShowsService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Shows\ShowsService\bin\ShowsService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsService.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ClientNotification.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ClientNotificationContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ClientNotification.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\bin\ShowsDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\obj\Debug\ShowsService.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\obj\Debug\ShowsService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\Shows\ShowsService\obj\Debug\ShowsService.pdb

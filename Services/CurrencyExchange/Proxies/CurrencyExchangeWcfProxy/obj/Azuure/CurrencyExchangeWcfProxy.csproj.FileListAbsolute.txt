@@ -1,0 +1,5 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Azuure\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Azuure\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Azuure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Azuure\CurrencyExchangeWcfProxy.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Azuure\CurrencyExchangeWcfProxy.dll

@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotificationContract\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotificationContract\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotificationContract\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotificationContract\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotificationContract\obj\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotificationContract\obj\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotificationContract\obj\Debug\ClientNotificationContract.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotificationContract\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotificationContract\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotificationContract\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotificationContract\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotificationContract\obj\Debug\ClientNotificationContract.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotificationContract\obj\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotificationContract\obj\Debug\ClientNotificationContract.pdb

@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Runtime.Serialization;
+
+namespace TicketingOffice.PaymentService.Contracts
+{
+    /// <summary>
+    /// Criteria information. The criteria is used to build the where statement for an EF query
+    /// </summary>
+    [DataContract(Namespace = @"http://Fabrikam.com")]
+    public class PaymentCriteria
+    {
+        [DataMember]
+        public Guid? OrderID { get; set; }
+        [DataMember]
+        public DateTime? FromDate { get; set; }
+        [DataMember]
+        public DateTime? ToDate { get; set; }
+        [DataMember]
+        public Guid? PayingCustomerID { get; set; }
+        [DataMember]
+        public double? Amount { get; set; }
+
+    }
+}

@@ -1,0 +1,86 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.UI.exe.config
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.UI.exe
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.UI.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\CrmContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\CrmContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\Templates\SeatMarker.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\App.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\OrderTicketWindow.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\PayTicketWindow.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\PrivateCRMWindow.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\ServiceNotificationWindow.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\Templates\SeatMarker.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\App.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI_MarkupCompile.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI_MarkupCompile.lref
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\OrderTicketWindow.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\PayTicketWindow.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\PrivateCRMWindow.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\ServiceNotificationWindow.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\Templates\DataTemplates.baml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.g.resources
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.Properties.Resources.resources
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.exe
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.UI.exe.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.UI.exe
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.UI.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\CrmContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\CrmContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\Templates\SeatMarker.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\App.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\OrderTicketWindow.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\PayTicketWindow.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\PrivateCRMWindow.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\ServiceNotificationWindow.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\Templates\SeatMarker.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\App.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI_MarkupCompile.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI_MarkupCompile.lref
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\OrderTicketWindow.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\PayTicketWindow.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\PrivateCRMWindow.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\ServiceNotificationWindow.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\Templates\DataTemplates.baml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.g.resources
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.exe
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Client\TicketingOffice.UI\obj\Debug\TicketingOffice.UI.pdb

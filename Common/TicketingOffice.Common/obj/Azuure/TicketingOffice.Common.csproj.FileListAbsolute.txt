@@ -1,0 +1,5 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\Azuure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Azuure\TicketingOffice.Common.Properties.StringsResource.resources
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Azuure\TicketingOffice.Common.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Azuure\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Azuure\TicketingOffice.Common.csprojResolveAssemblyReference.cache

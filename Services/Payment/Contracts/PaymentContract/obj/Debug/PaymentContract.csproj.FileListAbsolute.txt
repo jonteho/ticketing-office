@@ -1,0 +1,9 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\obj\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\obj\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\obj\Debug\PaymentContract.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\obj\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\Payment\Contracts\PaymentContract\obj\Debug\PaymentContract.pdb

@@ -1,0 +1,156 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\SimpleServiceHost.exe.config
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\SimpleServiceHost.exe
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\SimpleServiceHost.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ClientNotification.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CrmContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CrmService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingBrokerService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingRulesService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingHttpBridge.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingService.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CrmLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PrintingLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CustomerDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ClientNotification.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CrmContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CrmService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingBrokerService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingRulesService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingHttpBridge.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingService.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CrmLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PricingLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfProxy.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PrintingLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\CustomerDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ExchangeDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\HallStateDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\PaymentDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\ShowsDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\bin\Debug\TicketingDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\obj\Debug\SimpleServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\obj\Debug\SimpleServiceHost.exe
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Host\SimpleServiceHost\obj\Debug\SimpleServiceHost.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\SimpleServiceHost.exe.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\SimpleServiceHost.exe
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\SimpleServiceHost.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ClientNotification.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CrmContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CrmService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingBrokerService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingRulesService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingHttpBridge.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingService.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CrmLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PrintingLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CustomerDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ClientNotification.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CrmContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CrmService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingBrokerService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingRulesService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingHttpBridge.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingService.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CrmLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PricingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CurrencyExchangeWcfProxy.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PrintingLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\CustomerDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ExchangeDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\HallStateDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\PaymentDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\ShowsDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\bin\Debug\TicketingDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\obj\Debug\SimpleServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\obj\Debug\SimpleServiceHost.exe
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Host\SimpleServiceHost\obj\Debug\SimpleServiceHost.pdb

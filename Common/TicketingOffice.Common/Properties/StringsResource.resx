@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ActionFailed" xml:space="preserve">
+    <value>Action failed. See inner exception.</value>
+  </data>
+  <data name="AmountTooLarge" xml:space="preserve">
+    <value>The amount paid is too large. </value>
+  </data>
+  <data name="CallIDNotFound" xml:space="preserve">
+    <value>The header with the CallID was not found. Check the Http Bridge.</value>
+  </data>
+  <data name="CustomerIDNotFound" xml:space="preserve">
+    <value>CustomerID Not Found.</value>
+  </data>
+  <data name="CustomerNotFound" xml:space="preserve">
+    <value>Customer {0} Not Found.</value>
+  </data>
+  <data name="DeleteError" xml:space="preserve">
+    <value>Could not delete the {0} business entity. See inner exception. {1}</value>
+  </data>
+  <data name="DeleteTheaterFailed" xml:space="preserve">
+    <value>Cannot delete theater. There are still reservations for it. Make sure all reservations are deleted.</value>
+  </data>
+  <data name="EventInfoNotFound" xml:space="preserve">
+    <value>Could not find the exact event. Please supply more info or che</value>
+  </data>
+  <data name="EventNotFound" xml:space="preserve">
+    <value>Event {0} NotFound</value>
+  </data>
+  <data name="FailedToContactClient" xml:space="preserve">
+    <value>Could not contact client. See inner exception {0}</value>
+  </data>
+  <data name="FailedToContactCrm" xml:space="preserve">
+    <value>Failed To Contact Crm Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactCurrencyExchange" xml:space="preserve">
+    <value>Failed To Contact Currency Exchange Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactHallState" xml:space="preserve">
+    <value>Failed To Contact HallState reservations Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactPayment" xml:space="preserve">
+    <value>Failed To Contact Payment Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactPriceRules" xml:space="preserve">
+    <value>Failed To Contact Price Rules Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactPricing" xml:space="preserve">
+    <value>Failed To Contact Pricing Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactShows" xml:space="preserve">
+    <value>Failed To Contact Shows Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactTicketing" xml:space="preserve">
+    <value>Failed To Contact Ticketing Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="FailedToContactTicketingBridge" xml:space="preserve">
+    <value>Failed To Contact Ticketing bridge Service. Check configuration. Make sure the service is on.</value>
+  </data>
+  <data name="HallNotFound" xml:space="preserve">
+    <value>The Hall {0} was not found.</value>
+  </data>
+  <data name="HostClosed" xml:space="preserve">
+    <value>Host {0} Closed.</value>
+  </data>
+  <data name="HostCreated" xml:space="preserve">
+    <value>Host {0} Created.</value>
+  </data>
+  <data name="HostCreationFailed" xml:space="preserve">
+    <value>Host {0} creation failed. Exception: {1}</value>
+  </data>
+  <data name="HostStarted" xml:space="preserve">
+    <value>Host {0} Started.</value>
+  </data>
+  <data name="HostStartFailed" xml:space="preserve">
+    <value>Starting the host {0} failed. Exception: {1} </value>
+  </data>
+  <data name="InsertError" xml:space="preserve">
+    <value>Could not insert the {0} business entity. See inner exception. {1}</value>
+  </data>
+  <data name="InvalidCustomer" xml:space="preserve">
+    <value>Invalid Customer.</value>
+  </data>
+  <data name="InvalidOrClosedEvent" xml:space="preserve">
+    <value>Invalid or closed Event. Check if the event is open.</value>
+  </data>
+  <data name="InvalidPricingRule" xml:space="preserve">
+    <value>Invalid Pricing Rule. Check the reduction and dates. </value>
+  </data>
+  <data name="InvalidSeatOrRow" xml:space="preserve">
+    <value>Invalid Seat or Row number.</value>
+  </data>
+  <data name="InvalidSeatsString" xml:space="preserve">
+    <value>Invalid seats string. There is an odd number of elements. </value>
+  </data>
+  <data name="MoreThanOneCustomerWasFound" xml:space="preserve">
+    <value>More Than One Customer was found</value>
+  </data>
+  <data name="NullCustomer" xml:space="preserve">
+    <value>Customer is null</value>
+  </data>
+  <data name="NullOrder" xml:space="preserve">
+    <value>Order is null</value>
+  </data>
+  <data name="OrderNotFound" xml:space="preserve">
+    <value>Order {0} Not Found</value>
+  </data>
+  <data name="PaymentFailedInvalidUserDetails" xml:space="preserve">
+    <value>Could not execute payment. Invalid User Details</value>
+  </data>
+  <data name="PaymentFailedOrderNotFound" xml:space="preserve">
+    <value>Could not execute payment. Order not found.</value>
+  </data>
+  <data name="PricingFailed" xml:space="preserve">
+    <value>Price Calculation failed. Look at the inner exception.</value>
+  </data>
+  <data name="PricingRuleNotFound" xml:space="preserve">
+    <value>Pricing rule was not found. Check the config file.</value>
+  </data>
+  <data name="RefundFailedOrderNotFound" xml:space="preserve">
+    <value>Could not execute refund. Order not found.</value>
+  </data>
+  <data name="RefundFailedPaymentNotFound" xml:space="preserve">
+    <value>Could not execute refund. Payment not found.</value>
+  </data>
+  <data name="ReservationFailedEventDoesNotExist" xml:space="preserve">
+    <value>Could not reserve seat. The event does not exist. Check the eventID .</value>
+  </data>
+  <data name="ReservationFailedTheaterNotFound" xml:space="preserve">
+    <value>Reservation Failed. The hall / theater was not found.</value>
+  </data>
+  <data name="ReservationNotFound" xml:space="preserve">
+    <value>Reservation {0} NotFound.</value>
+  </data>
+  <data name="RetrieveError" xml:space="preserve">
+    <value>Could not retrieve the {0} business entity. See inner exception. {1}</value>
+  </data>
+  <data name="SeatAlreadyTaken" xml:space="preserve">
+    <value>Reservation Failed. The seat is already taken.</value>
+  </data>
+  <data name="SeatParsingError" xml:space="preserve">
+    <value>Error in parsing seat numbers.</value>
+  </data>
+  <data name="SevicesToHostNotFound" xml:space="preserve">
+    <value>No services where found in the configuration file.</value>
+  </data>
+  <data name="ShowNotFound" xml:space="preserve">
+    <value>Show {0} Not Found.</value>
+  </data>
+  <data name="TicketingFailed" xml:space="preserve">
+    <value>Ticketing failed see inner exception.</value>
+  </data>
+  <data name="UpdateError" xml:space="preserve">
+    <value>Could not update the {0} business entity. See inner exception. {1}</value>
+  </data>
+  <data name="CreateHosts" xml:space="preserve">
+    <value>Creating Service Hosts.</value>
+  </data>
+  <data name="HostFalted" xml:space="preserve">
+    <value>Host Halted {0}</value>
+  </data>
+  <data name="ListentingAt" xml:space="preserve">
+    <value>Listening at: {0}.</value>
+  </data>
+  <data name="StatrtHosts" xml:space="preserve">
+    <value>Starting Sevices Hosts.</value>
+  </data>
+  <data name="StoppingHosts" xml:space="preserve">
+    <value>Stopping Service Hosts.</value>
+  </data>
+  <data name="ActionNotKnown" xml:space="preserve">
+    <value>Action not knows. Check the action header in the message and make sure in complies with the ticketing contract</value>
+  </data>
+  <data name="ErrorHandlerMustImplementIErrorHandler" xml:space="preserve">
+    <value>The errorHandlerType specified in the ErrorBehaviorAttribute constructor must implement System.ServiceModel.Dispatcher.IErrorHandler</value>
+  </data>
+  <data name="ErrorHandlerMustIncludeEmptyConstructor" xml:space="preserve">
+    <value>The errorHandlerType specified in the ErrorBehaviorAttribute constructor must have a public empty constructor.</value>
+  </data>
+  <data name="UnAuthorizedOperation" xml:space="preserve">
+    <value>You are not authorized to perform this operation.</value>
+  </data>
+  <data name="CreditCardNotApproved" xml:space="preserve">
+    <value>The Credit card was not approved for payment.</value>
+  </data>
+  <data name="MSMQCreationFailed" xml:space="preserve">
+    <value>MSMQ queue creation failed check the queue path and permissions</value>
+  </data>
+  <data name="InvalidTheaterID" xml:space="preserve">
+    <value>TheaterID cannot be negative or zero.</value>
+  </data>
+  <data name="NoSeatsInOrder" xml:space="preserve">
+    <value>Order must have seats.</value>
+  </data>
+  <data name="NullEvent" xml:space="preserve">
+    <value>Event cannot be null.</value>
+  </data>
+  <data name="NullShow" xml:space="preserve">
+    <value>Show cannot be null.</value>
+  </data>
+  <data name="ShowMustHaveAName" xml:space="preserve">
+    <value>Show must have a name.</value>
+  </data>
+  <data name="MethodCalledBy" xml:space="preserve">
+    <value>The method {0} was called by {1}</value>
+  </data>
+  <data name="AsyncExecution" xml:space="preserve">
+    <value>Running {0} on thread {1}</value>
+  </data>
+  <data name="OrderAlreadyApproved" xml:space="preserve">
+    <value>Order already approved cannot preform payment</value>
+  </data>
+  <data name="RefundFailedNegativeAmount" xml:space="preserve">
+    <value>Cannot refund a negative amount</value>
+  </data>
+</root>

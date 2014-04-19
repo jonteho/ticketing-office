@@ -1,0 +1,13 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.Properties.StringsResource.resources
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.Properties.StringsResource.resources
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Inlämningsuppgifter\Learning\Allfiles\LabFiles\Solution\M05\CS\Common\TicketingOffice.Common\obj\Debug\TicketingOffice.Common.pdb

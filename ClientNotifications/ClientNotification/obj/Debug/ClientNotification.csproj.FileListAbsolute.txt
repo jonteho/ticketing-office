@@ -1,0 +1,18 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Debug\ClientNotification.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Debug\ClientNotification.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\obj\Debug\ClientNotification.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\obj\Debug\ClientNotification.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\ClientNotifications\ClientNotification\obj\Debug\ClientNotification.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\bin\Debug\ClientNotification.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\bin\Debug\ClientNotification.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\bin\Debug\ClientNotificationContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\bin\Debug\ClientNotificationContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\obj\Debug\ClientNotification.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\obj\Debug\ClientNotification.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\ClientNotifications\ClientNotification\obj\Debug\ClientNotification.pdb

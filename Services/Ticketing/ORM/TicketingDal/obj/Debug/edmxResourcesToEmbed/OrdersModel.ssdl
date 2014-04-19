@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicketingOfficeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TicketingOfficeModelStoreContainer">
+    <EntitySet Name="Orders" EntityType="TicketingOfficeModel.Store.Orders" store:Type="Tables" Schema="OrdersData" />
+  </EntityContainer>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ReservationID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TotalPrice" Type="decimal" Nullable="false" />
+    <Property Name="DateOfPurchase" Type="datetime" />
+    <Property Name="State" Type="nchar" MaxLength="10" />
+    <Property Name="CustomerID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="EventID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Remarks" Type="varchar(max)" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,25 @@
+﻿<Window x:Class="TicketingOffice.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:properties="clr-namespace:TicketingOffice.UI.Properties"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="0,0,0,5"/>
+            <Setter Property="Width" Value="200"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Left" Grid.Column="0">
+            <Label Content="{x:Static properties:Resources.MainWindow_SelectOptionLabel}"/>
+            <Button Content="{x:Static properties:Resources.ServiceNotificationWindow_btnListen}" Name="btnListen" Click="btnListen_Click" />
+            <Button Content="{x:Static properties:Resources.MainWindow_btnPrivateCRM}" Name="btnPrivateCRM" Click="btnPrivateCRM_Click" />
+            <Button Content="{x:Static properties:Resources.MainWindow_btnShowOrderTicket}" Name="btnShowOrderTicket" Click="btnShowOrderTicket_Click" />
+        </StackPanel>
+       
+    </Grid>
+</Window>

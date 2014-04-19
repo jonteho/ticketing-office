@@ -1,0 +1,64 @@
+﻿
+@model IEnumerable<TicketingOffice.CrmService.Contracts.Customer>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "../_Layout.cshtml";
+}
+
+
+<table id="customersTable" class="table table-condensed">
+    <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Email</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>Country</th>
+        <th>Cellnumber</th>
+        <th>Birthdate</th>
+        <th>Phonenumber</th>
+        <th>Reductioncode</th>
+        <th>Options</th>
+    </tr>
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.FirstName</td>
+            <td>@c.LastName</td>
+            <td>@c.Email</td>
+            <td>@c.Address</td>
+            <td>@c.City</td>
+            <td>@c.Country</td>
+            <td>@c.CellNumber</td>
+            <td>@c.BirthDate</td>
+            <td>@c.PhoneNumber</td>
+            <td>@c.ReductionCode</td>
+            <td>
+                <form action="@Url.Action("DeleteCustomer","Home")" method="post">
+                    <button type="submit" name="@c" class="btn btn-danger">Del</button>
+                </form>
+                <form action="@Url.Action("UpdateCustomer","Home")" method="post">
+                    <button type="submit" name="@c" class="btn btn-success">Edit</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+
+<form id="add" action="@Url.Action("AddCustomer","Home")" method="post" class="navbar-form navbar-left">
+    <div class="form-group">
+        <h2>Add customer</h2>
+        <input class="form-control" placeholder="Firstname" type="text" name="FirstName" />
+        <input class="form-control" placeholder="Lastname" type="text" name="LastName" />
+        <input class="form-control" placeholder="Address" type="text" name="Address" />
+        <input class="form-control" placeholder="Birthdate" type="date" name="BirthDate" />
+        <input class="form-control" placeholder="Cellnumber" type="text" name="CellNumber" />
+        <input class="form-control" placeholder="Country" type="text" name="Country" />
+        <input class="form-control" placeholder="City" type="text" name="City" />
+        <input class="form-control" placeholder="Email" type="email" name="Email" />
+        <input class="form-control" placeholder="Phonenumber" type="tel" name="PhoneNumber" />
+        <input class="form-control" placeholder="Reductioncode" type="text" name="ReductionCode" />
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+</form>

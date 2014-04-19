@@ -1,0 +1,22 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\ExchangeDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\Debug\CurrencyExchangeLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\Debug\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\Debug\CurrencyExchangeLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\ExchangeDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\Debug\CurrencyExchangeLogic.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\Debug\CurrencyExchangeLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Logics\CurrencyExchangeLogic\obj\Debug\CurrencyExchangeLogic.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicketingOfficeModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TicketingOfficeModelStoreContainer">
+    <EntitySet Name="ExchangeRates" EntityType="TicketingOfficeModel.Store.ExchangeRates" store:Type="Tables" Schema="ExchangeRatesData" />
+  </EntityContainer>
+  <EntityType Name="ExchangeRates">
+    <Key>
+      <PropertyRef Name="Currency" />
+    </Key>
+    <Property Name="Currency" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="Rate" Type="float" Nullable="false" />
+  </EntityType>
+</Schema>

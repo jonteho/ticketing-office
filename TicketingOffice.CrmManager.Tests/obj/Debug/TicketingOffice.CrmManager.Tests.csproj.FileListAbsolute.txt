@@ -1,0 +1,50 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.CrmManager.Tests.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.CrmManager.Tests.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CrmContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CrmLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\Moq.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CustomerDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CrmContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CrmLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\Moq.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CustomerDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\obj\Debug\TicketingOffice.CrmManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\obj\Debug\TicketingOffice.CrmManager.Tests.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.CrmManager.Tests\obj\Debug\TicketingOffice.CrmManager.Tests.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.CrmManager.Tests.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.CrmManager.Tests.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CrmContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CrmLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\Moq.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CustomerDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CrmContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CrmLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\Moq.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CustomerDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\obj\Debug\TicketingOffice.CrmManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\obj\Debug\TicketingOffice.CrmManager.Tests.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.CrmManager.Tests\obj\Debug\TicketingOffice.CrmManager.Tests.pdb

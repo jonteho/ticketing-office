@@ -1,0 +1,18 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeWcfProxy.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Debug\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Debug\CurrencyExchangeWcfProxy.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Debug\CurrencyExchangeWcfProxy.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeWcfProxy.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Debug\CurrencyExchangeWcfProxy.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Debug\CurrencyExchangeWcfProxy.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\Proxies\CurrencyExchangeWcfProxy\obj\Debug\CurrencyExchangeWcfProxy.pdb

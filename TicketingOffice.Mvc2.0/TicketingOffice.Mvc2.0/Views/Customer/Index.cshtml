@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "Ticketing Office";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="well-lg text-center" style="background: black; height: 210px; border-radius: 0; opacity: 0.7;">
+    <p style="color: white; font-family: 'Days One', sans-serif; font-size: 48px;">
+        Ticketing Office
+    </p>
+        <ul class="nav nav-justified">
+            <li><button id="addCustomer" class="btn btn-primary">Add customer</button></li>
+            <li><button id="updateCustomer" class="btn btn-primary">Manage customer</button></li>
+            <li><button id="getCustomers" class="btn btn-primary">Get customers</button></li>
+            <li><button id="lastCustomers" class="btn btn-primary">Last updated customers</button></li>
+            @*<li><a href="/LastCustomer.html" target="_blank" class="btn">Last updated customer</a></li>*@
+        </ul>
+    
+</div>
+
+
+<div id="divAdd" class="well-lg text-center" style="background: #3276B1; height: 210px; border-radius: 0; opacity: 0.7;">
+    <form id="formAdd" action="@Url.Action("AddCustomer","Customer")" method="POST" class="navbar-form">
+        <input class="form-control" style="width: 240px;" placeholder="Firstname" type="text" name="FirstName" />
+        <input class="form-control" style="width: 240px;" placeholder="Lastname" type="text" name="LastName" />
+            <input class="form-control" style="width: 240px;" placeholder="Address" type="text" name="Address" />
+            <input class="form-control" style="width: 240px;" placeholder="Birthdate" type="date" name="BirthDate" />
+        <input class="form-control" style="width: 240px;" placeholder="Cellnumber" type="text" name="CellNumber" />
+        <input class="form-control" style="width: 240px;" placeholder="Country" type="text" name="Country" />
+        <br />
+        <br />
+        <input class="form-control" style="width: 240px;" placeholder="City" type="text" name="City" />
+            <input class="form-control" style="width: 240px;" placeholder="Email" type="email" name="Email" />
+            <input class="form-control" style="width: 240px;" placeholder="Phonenumber" type="tel" name="PhoneNumber" />
+            <input class="form-control" style="width: 240px;" placeholder="Reductioncode" type="text" name="ReductionCode" />
+        <br />
+        <br />
+        <button id="buttonAdd" type="button" class="btn btn-default">Submit</button>
+    </form>
+</div>
+
+
+
+<div id="divUpdate" class="well-lg text-center" style="background: #3276B1; height: 170px; border-radius: 0; opacity: 0.7; ">
+    <br />
+    <form action="@Url.Action("GetCustomer","Customer")" method="POST" class="navbar-form">
+        <input id="customerEmail" style="width: 240px;" name="email" class="form-control" placeholder="Email" type="email" />
+        <br />
+        <br />
+        <input id="getEmail" class="btn" type="submit" value="Get customer" />
+    </form>
+</div>
+
+
+<div id="divGet" class="well-lg text-center" style="color: white;background: #3276B1; border-radius: 0; opacity: 0.7; ">
+    <table id="tableGet" class="table table-condensed text-center">
+        <tr class="text-center">
+            <th class="text-center">Firstname</th>
+            <th class="text-center">Lastname</th>
+            <th class="text-center">Address</th>
+            <th class="text-center">Birthdate</th>
+            <th class="text-center">Cellnumber</th>
+            <th class="text-center">Country</th>
+            <th class="text-center">City</th>
+            <th class="text-center">Email</th>
+            <th class="text-center">Phonenumber</th>
+            <th class="text-center">Reductioncode</th>
+            <th class="text-center">Updated</th>
+        </tr>
+    </table>
+</div>
+
+
+

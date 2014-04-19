@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" elementFormDefault="qualified" targetNamespace="http://www.fabrikam.com" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:5004/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:element name="PayForOrder">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="orderID" type="ser:guid" />
+        <xs:element minOccurs="0" name="payingCustomerID" type="ser:guid" />
+        <xs:element minOccurs="0" name="amount" type="xs:double" />
+        <xs:element xmlns:q1="http://www.fabrikam.com" minOccurs="0" name="methodOfPayment" type="q1:PaymentType" />
+        <xs:element minOccurs="0" name="creditCardNumber" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="PaymentType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CreditCard" />
+      <xs:enumeration value="Cash" />
+      <xs:enumeration value="Cheque" />
+      <xs:enumeration value="Voucher" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element xmlns:q2="http://www.fabrikam.com" name="PaymentType" nillable="true" type="q2:PaymentType" />
+  <xs:element name="PayForOrderResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://www.fabrikam.com" minOccurs="0" name="PayForOrderResult" nillable="true" type="q3:Payment" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="Payment">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" type="xs:double" />
+      <xs:element minOccurs="0" name="CustomerID" type="ser:guid" />
+      <xs:element minOccurs="0" name="Date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="ID" type="xs:long" />
+      <xs:element xmlns:q4="http://www.fabrikam.com" minOccurs="0" name="MethodOfPayment" type="q4:PaymentType" />
+      <xs:element minOccurs="0" name="OrderID" type="ser:guid" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element xmlns:q5="http://www.fabrikam.com" name="Payment" nillable="true" type="q5:Payment" />
+  <xs:element name="Refund">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="paymentID" type="xs:long" />
+        <xs:element minOccurs="0" name="customerID" type="ser:guid" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RefundResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://www.fabrikam.com" minOccurs="0" name="RefundResult" nillable="true" type="q6:Payment" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPayments">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://www.fabrikam.com" minOccurs="0" name="criteria" nillable="true" type="q7:PaymentCriteria" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="PaymentCriteria">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:double" />
+      <xs:element minOccurs="0" name="FromDate" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="OrderID" nillable="true" type="ser:guid" />
+      <xs:element minOccurs="0" name="PayingCustomerID" nillable="true" type="ser:guid" />
+      <xs:element minOccurs="0" name="ToDate" nillable="true" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element xmlns:q8="http://www.fabrikam.com" name="PaymentCriteria" nillable="true" type="q8:PaymentCriteria" />
+  <xs:element name="FindPaymentsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://www.fabrikam.com" minOccurs="0" name="FindPaymentsResult" nillable="true" type="q9:ArrayOfPayment" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="ArrayOfPayment">
+    <xs:sequence>
+      <xs:element xmlns:q10="http://www.fabrikam.com" minOccurs="0" maxOccurs="unbounded" name="Payment" nillable="true" type="q10:Payment" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element xmlns:q11="http://www.fabrikam.com" name="ArrayOfPayment" nillable="true" type="q11:ArrayOfPayment" />
+  <xs:element name="FindPayment">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="paymentID" type="xs:long" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FindPaymentResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://www.fabrikam.com" minOccurs="0" name="FindPaymentResult" nillable="true" type="q12:Payment" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

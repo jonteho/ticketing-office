@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TicketingOfficeShowsServiceORMStoreContainer" CdmEntityContainer="TicketingOfficeShowEntities">
+    <EntitySetMapping Name="Events">
+      <EntityTypeMapping TypeName="TicketingOffice.ShowsService.DataAccess.Event">
+        <MappingFragment StoreEntitySet="Events">
+          <ScalarProperty Name="PricingPolicy" ColumnName="PricingPolicy" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="ListPrice" ColumnName="ListPrice" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="TheaterID" ColumnName="TheaterID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shows">
+      <EntityTypeMapping TypeName="TicketingOffice.ShowsService.DataAccess.Show">
+        <MappingFragment StoreEntitySet="Shows">
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+          <ScalarProperty Name="Duration" ColumnName="Duration" />
+          <ScalarProperty Name="Cast" ColumnName="Cast" />
+          <ScalarProperty Name="Preview" ColumnName="Preview" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_Events_Shows" TypeName="TicketingOffice.ShowsService.DataAccess.FK_Events_Shows" StoreEntitySet="Events">
+      <EndProperty Name="Event">
+        <ScalarProperty Name="ID" ColumnName="ID" />
+      </EndProperty>
+      <EndProperty Name="Show">
+        <ScalarProperty Name="ID" ColumnName="ShowID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

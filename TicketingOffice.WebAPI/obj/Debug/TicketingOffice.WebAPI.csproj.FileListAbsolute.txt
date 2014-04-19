@@ -1,0 +1,76 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\TicketingOffice.WebAPI.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\TicketingOffice.WebAPI.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Web.Http.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Web.Http.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\obj\Debug\TicketingOffice.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\obj\Debug\TicketingOffice.WebAPI.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\obj\Debug\TicketingOffice.WebAPI.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CrmContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CustomerDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\TicketingContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\ShowsContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\PaymentContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\HallStateContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CrmContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CustomerDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\TicketingContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\ShowsContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\PaymentContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\HallStateContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CrmLogic.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\CrmLogic.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\TicketingOffice.WebAPI.dll.config
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\WebGrease.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\TicketingOffice.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\TicketingOffice.WebAPI.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\TicketingOffice.WebAPI.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\TicketingOffice.WebAPI.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CrmContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CrmLogic.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CustomerDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Web.Http.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\WebGrease.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\TicketingContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\ShowsContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\PaymentContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\HallStateContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CurrencyExchangeContract.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CrmContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CrmLogic.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CustomerDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Web.Http.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\TicketingContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\ShowsContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\PaymentContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\HallStateContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\bin\CurrencyExchangeContract.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\obj\Debug\TicketingOffice.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\obj\Debug\TicketingOffice.WebAPI.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\TicketingOffice.WebAPI\obj\Debug\TicketingOffice.WebAPI.pdb

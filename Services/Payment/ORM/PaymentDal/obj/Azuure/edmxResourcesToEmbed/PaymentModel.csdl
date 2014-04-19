@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TicketingOfficeModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="TicketingOfficePaymentEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Payments" EntityType="TicketingOfficeModel.Payment" />
+  </EntityContainer>
+  <EntityType Name="Payment">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Amount" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <Property Name="MethodOfPayment" Type="Int32" Nullable="false" />
+    <Property Name="OrderID" Type="Guid" Nullable="false" />
+    <Property Name="CustomerID" Type="Guid" Nullable="false" />
+  </EntityType>
+</Schema>

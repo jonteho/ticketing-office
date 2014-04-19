@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\ExchangeDal.dll.config
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\ExchangeDal.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\obj\Debug\ExchangeDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\obj\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Develop\Kurser\Distruberade Lösningar\Learning\Allfiles\LabFiles\Solution\M05\CS\Services\CurrencyExchange\ORM\ExchangeDal\obj\Debug\ExchangeDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\ExchangeDal.dll.config
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\ExchangeDal.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\TicketingOffice.Common.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\bin\Debug\TicketingOffice.Common.pdb
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\obj\Debug\ExchangeDal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\obj\Debug\ExchangeDal.dll
+C:\Users\Jonathan\Desktop\Ladda up till git\Ticketing Office\Services\CurrencyExchange\ORM\ExchangeDal\obj\Debug\ExchangeDal.pdb
